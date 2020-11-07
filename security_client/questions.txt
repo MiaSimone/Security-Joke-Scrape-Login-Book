@@ -1,0 +1,9 @@
+Did this logout involve the server
+	- No it only uses local storage and removes it from there, so as we know, it uses the client.
+
+Is the token (if kept somewhere, still valid?)
+	- No i dont think so
+
+
+If your answer to the question above was yes, is this a problem?, and if, how could it have been solved?
+	- No.
